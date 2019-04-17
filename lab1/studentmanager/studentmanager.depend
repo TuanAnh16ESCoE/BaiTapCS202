@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555483893 source:d:\he thong lap trinh\studentmanager\main.cpp
+	<iostream>
+	"student.h"
+
+1555485003 d:\he thong lap trinh\studentmanager\student.h
+
+1555485024 source:d:\he thong lap trinh\studentmanager\student.cpp
+	<iostream>
+	"cmath"
+	"student.h"
+

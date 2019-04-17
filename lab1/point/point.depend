@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554692944 source:d:\he thong lap trinh\point\main.cpp
+	<iostream>
+	"point3d.h"
+	"cmath"
+
+1554692362 source:d:\he thong lap trinh\point\point3d.cpp
+	<iostream>
+	"cmath"
+	"point3d.h"
+
+1554691690 d:\he thong lap trinh\point\point3d.h
+

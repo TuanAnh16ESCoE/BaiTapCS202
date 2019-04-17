@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554703086 source:d:\he thong lap trinh\backaccount\main.cpp
+	<iostream>
+	"bankaccount.h"
+	"stdlib.h"
+
+1554702853 source:d:\he thong lap trinh\backaccount\account.cpp
+	<iostream>
+	"stdlib.h"
+	"bankaccount.h"
+
+1554702810 d:\he thong lap trinh\backaccount\bankaccount.h
+
