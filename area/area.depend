@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555551232 source:d:\he thong lap trinh\lab2\area\main.cpp
+	<iostream>
+	<cmath>
+	"area.h"
+
+1555551252 d:\he thong lap trinh\lab2\area\area.h
+	<cmath>
+
