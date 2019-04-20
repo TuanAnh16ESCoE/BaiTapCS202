@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555548365 source:d:\he thong lap trinh\lab2\myultil\myulti.cpp
+	"MyUlti.h"
+	<iostream>
+	<cmath>
+
+1555549679 d:\he thong lap trinh\lab2\myultil\myulti.h
+	<cmath>
+
+1555549093 source:d:\he thong lap trinh\lab2\myultil\main.cpp
+	<iostream>
+	<cmath>
+	"MyUlti.h"
+

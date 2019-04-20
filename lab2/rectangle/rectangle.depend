@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555549679 source:d:\he thong lap trinh\lab2\rectangle\main.cpp
+	<iostream>
+	"rectangle.h"
+	<conio.h>
+
+1555549679 d:\he thong lap trinh\lab2\rectangle\rectangle.h
+	<iostream>
+	<conio.h>
+
