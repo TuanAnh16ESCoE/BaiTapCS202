@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556117236 source:d:\he thong lap trinh\lab2\stackwithpointer\main.cpp
+	<iostream>
+	"stack.h"
+
+1556116731 d:\he thong lap trinh\lab2\stackwithpointer\stack.h
+	<iostream>
+
+1556117210 source:d:\he thong lap trinh\lab2\stackwithpointer\stkptr.cpp
+	"stack.h"
+	<stdlib.h>
+	<iostream>
+
