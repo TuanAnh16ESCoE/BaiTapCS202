@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:d:\he thong lap trinh\lab 3\complex\main.cpp
+	<iostream>
+
+1556594167 source:d:\he thong lap trinh\lab 3\complex\complex.cpp
+	<iostream>
+	<conio.h>
+	"complex.h"
+
+1556594082 d:\he thong lap trinh\lab 3\complex\complex.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:d:\he thong lap trinh\lab 3\fraction\main.cpp
+	<iostream>
+
+1556597236 source:d:\he thong lap trinh\lab 3\fraction\fraction.cpp
+	<iostream>
+	<conio.h>
+	"fraction.h"
+
+1556597131 d:\he thong lap trinh\lab 3\fraction\fraction.h
+
